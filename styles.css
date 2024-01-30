@@ -643,7 +643,10 @@ left: -45px;
   padding: 0 1rem;
   font-size: 1.5rem;
 }
-
+#submit-btn a{
+  text-decoration: none;
+  color: #fff;
+}
 /* Contact Me Section Ends  */
 
 /* Footer Section Start  */
